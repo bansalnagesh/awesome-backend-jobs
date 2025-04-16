@@ -6,17 +6,21 @@ A curated list of the best backend developer jobs, updated daily.
 
 ## Latest Jobs
 
-*Updated on 2025-04-12*
+*Updated on 2025-04-16*
 
 | Company | Position | Location | Posted | Apply |
 | ------- | -------- | -------- | ------ | ------ |
-| agap2 Italia | Back End developer | 🌐 Remote | Apr 10 | [Apply](https://starjobs.dev/jobs/fe6e9a950fda466ca15c41eb768e1a4e?utm=github) |
-| Sonia | Senior Backend Engineer (Python) | 🌐 Remote | Apr 10 | [Apply](https://starjobs.dev/jobs/e3a3d6bf0caa43979fdd029a75697645?utm=github) |
-| Cheqpay | Senior Backend Engineer | 🌐 Remote | Apr 08 | [Apply](https://starjobs.dev/jobs/18cc6a49d78b448fb4684d5e2a107a77?utm=github) |
-| Company | Senior Backend Developer | 🌐 Remote | Apr 08 | [Apply](https://starjobs.dev/jobs/b60b0a41e54f4267ba8c79739ca5133b?utm=github) |
-| Getronics | Programador/a Backend (Java+Spring) | 📍 Spain | Apr 08 | [Apply](https://starjobs.dev/jobs/1768df3ae4674385b4fcc7eab6233c38?utm=github) |
-| HashiCorp | Sr. Backend Engineer | 🌐 Remote | Apr 08 | [Apply](https://starjobs.dev/jobs/44d9a3552123479096487e13c518ccdf?utm=github) |
-| Jalasoft | Senior Backend Developer | 🌐 Remote | Apr 07 | [Apply](https://starjobs.dev/jobs/8ce251312c3d44de806e7f6492202ca5?utm=github) |
+| PhonePe | Software Engineer (Backend, 5-8 Years) - Financial Services | 📍 Bengaluru, Karnataka, India | Apr 16 | [Apply](https://starjobs.dev/jobs/4a7763f65dbd4e4a8e51d34f4064a620?utm=github) |
+| Harvey Nash | Software Backend Developer (m/w/d) | 🌐 Remote | Apr 16 | [Apply](https://starjobs.dev/jobs/edc54e209a6b4de19db1551d5c8f0259?utm=github) |
+| Wiraa | Sr. Backend Developer | 🌐 Remote | Apr 16 | [Apply](https://starjobs.dev/jobs/27c04dfae47640f78da202671e731469?utm=github) |
+| Luxehouze | Freelance Back End Engineer | 📍 Gambir, Jakarta, Indonesia | Apr 15 | [Apply](https://starjobs.dev/jobs/e790fc4410ed47049214d82e06601cfc?utm=github) |
+| Luno | Backend Engineer | 🌐 Remote | Apr 14 | [Apply](https://starjobs.dev/jobs/55f092ea4ddd4ad7b704a95ae6ef16ab?utm=github) |
+| Climate Arc | API Engineer (open to Poland, Romania and Portugal) | 🌐 Remote | Apr 14 | [Apply](https://starjobs.dev/jobs/befbeb4ca4434e1296dcbe825fa9161a?utm=github) |
+| Enhancers - Tinexta Innovation Hub | Sviluppatore back-end | 📍 Italy | Apr 14 | [Apply](https://starjobs.dev/jobs/b0b9843bfac248c0b2449a6b219b3ccf?utm=github) |
+| Virtualcave | Desarrollador de back-end | 🌐 Remote | Apr 13 | [Apply](https://starjobs.dev/jobs/f0a6821f1611471c8751c87ffefc0a4d?utm=github) |
+| BrightOrder | DevOps Backend Developer | 🌐 Remote | Apr 12 | [Apply](https://starjobs.dev/jobs/559612dd86754547bc63b1308b318c94?utm=github) |
+| Mimo GmbH | Senior Backend Developer — Typescript | 🌐 Remote | Apr 12 | [Apply](https://starjobs.dev/jobs/503333e0f2bd4031afe361f95e0106af?utm=github) |
+| Faire | Staff Back-end Engineer - Ads 💰 | 📍 San Francisco, CA | Apr 12 | [Apply](https://starjobs.dev/jobs/4934d116fd9144c28aca261d27078d58?utm=github) |
 
 
 ## About This List
@@ -29,9 +33,9 @@ This list is automatically updated daily with fresh job opportunities.
 
 ## Other Awesome Job Lists
 
+* [Game Development Jobs](https://github.com/bansalnagesh/game-development-jobs)
+* [UX & Design Jobs](https://github.com/bansalnagesh/ux-design-jobs)
+* [Product Management Jobs](https://github.com/bansalnagesh/product-management-jobs)
+* [Awesome DevOps Jobs](https://github.com/bansalnagesh/awesome-devops-jobs)
 * [Awesome AI & Machine Learning Jobs](https://github.com/bansalnagesh/awesome-ai-ml-jobs)
-* [Senior Tech Jobs](https://github.com/bansalnagesh/senior-tech-jobs)
 * [Junior Tech Jobs](https://github.com/bansalnagesh/junior-tech-jobs)
-* [Tech Jobs in India](https://github.com/bansalnagesh/tech-jobs-india)
-* [Awesome Data Engineering Jobs](https://github.com/bansalnagesh/awesome-data-jobs)
-* [Tech Jobs in the USA](https://github.com/bansalnagesh/tech-jobs-usa)
