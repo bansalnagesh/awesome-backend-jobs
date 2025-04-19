@@ -6,21 +6,25 @@ A curated list of the best backend developer jobs, updated daily.
 
 ## Latest Jobs
 
-*Updated on 2025-04-16*
+*Updated on 2025-04-19*
 
 | Company | Position | Location | Posted | Apply |
 | ------- | -------- | -------- | ------ | ------ |
-| PhonePe | Software Engineer (Backend, 5-8 Years) - Financial Services | 📍 Bengaluru, Karnataka, India | Apr 16 | [Apply](https://starjobs.dev/jobs/4a7763f65dbd4e4a8e51d34f4064a620?utm=github) |
-| Harvey Nash | Software Backend Developer (m/w/d) | 🌐 Remote | Apr 16 | [Apply](https://starjobs.dev/jobs/edc54e209a6b4de19db1551d5c8f0259?utm=github) |
-| Wiraa | Sr. Backend Developer | 🌐 Remote | Apr 16 | [Apply](https://starjobs.dev/jobs/27c04dfae47640f78da202671e731469?utm=github) |
-| Luxehouze | Freelance Back End Engineer | 📍 Gambir, Jakarta, Indonesia | Apr 15 | [Apply](https://starjobs.dev/jobs/e790fc4410ed47049214d82e06601cfc?utm=github) |
-| Luno | Backend Engineer | 🌐 Remote | Apr 14 | [Apply](https://starjobs.dev/jobs/55f092ea4ddd4ad7b704a95ae6ef16ab?utm=github) |
-| Climate Arc | API Engineer (open to Poland, Romania and Portugal) | 🌐 Remote | Apr 14 | [Apply](https://starjobs.dev/jobs/befbeb4ca4434e1296dcbe825fa9161a?utm=github) |
-| Enhancers - Tinexta Innovation Hub | Sviluppatore back-end | 📍 Italy | Apr 14 | [Apply](https://starjobs.dev/jobs/b0b9843bfac248c0b2449a6b219b3ccf?utm=github) |
-| Virtualcave | Desarrollador de back-end | 🌐 Remote | Apr 13 | [Apply](https://starjobs.dev/jobs/f0a6821f1611471c8751c87ffefc0a4d?utm=github) |
-| BrightOrder | DevOps Backend Developer | 🌐 Remote | Apr 12 | [Apply](https://starjobs.dev/jobs/559612dd86754547bc63b1308b318c94?utm=github) |
-| Mimo GmbH | Senior Backend Developer — Typescript | 🌐 Remote | Apr 12 | [Apply](https://starjobs.dev/jobs/503333e0f2bd4031afe361f95e0106af?utm=github) |
-| Faire | Staff Back-end Engineer - Ads 💰 | 📍 San Francisco, CA | Apr 12 | [Apply](https://starjobs.dev/jobs/4934d116fd9144c28aca261d27078d58?utm=github) |
+| Romeu | Backend developer | 📍 Spain | Apr 17 | [Apply](https://starjobs.dev/jobs/cd2f00c1b1b946b398b4c2feff5842ef?utm=github) |
+| Randstad Japan | Fully Remote Backend Engineer | 📍 Greater Tokyo Area | Apr 17 | [Apply](https://starjobs.dev/jobs/296bfd170c02448d8a42a5c70280c456?utm=github) |
+| idealista | Backend Developer | 🌐 Remote | Apr 17 | [Apply](https://starjobs.dev/jobs/65c2c1b4d4a443ecb262bab7d2f91833?utm=github) |
+| Deel | Senior Backend Engineer, Node.js + AWS | 🌐 Remote | Apr 16 | [Apply](https://starjobs.dev/jobs/15572375e6224470859e02f3e8b673e9?utm=github) |
+| Deel | Senior Backend Engineer, Node.js + AWS | 🌐 Remote | Apr 16 | [Apply](https://starjobs.dev/jobs/d6d4e201899c4a68aa38e7ee49bbf964?utm=github) |
+| Deel | Senior Backend Engineer, Node.js + AWS | 🌐 Remote | Apr 16 | [Apply](https://starjobs.dev/jobs/a3d88025c37e4d7c95bca81eb3454d0f?utm=github) |
+| Deel | Senior Backend Engineer, Node.js + AWS | 🌐 Remote | Apr 16 | [Apply](https://starjobs.dev/jobs/55d378cbbc0046c2b83997aa130774df?utm=github) |
+| Deel | Senior Backend Engineer, Node.js + AWS | 🌐 Remote | Apr 16 | [Apply](https://starjobs.dev/jobs/d22037bb2e9c48fa95e14959b0e8cdf9?utm=github) |
+| Deel | Senior Backend Engineer, Node.js + AWS | 🌐 Remote | Apr 16 | [Apply](https://starjobs.dev/jobs/14ea0839d343427391a7d4432dcab85c?utm=github) |
+| Deel | Senior Backend Engineer, Node.js + AWS | 🌐 Remote | Apr 16 | [Apply](https://starjobs.dev/jobs/dae4f4622a3a4a9a8b9fc606958a22ad?utm=github) |
+| Deel | Senior Backend Engineer, Node.js + AWS | 🌐 Remote | Apr 16 | [Apply](https://starjobs.dev/jobs/24a799608ac24751b08d2649cf80bb77?utm=github) |
+| Deel | Senior Backend Engineer, Node.js + AWS | 🌐 Remote | Apr 16 | [Apply](https://starjobs.dev/jobs/0846ed1579274dcd927ece85c5979284?utm=github) |
+| Deel | Senior Backend Engineer, Node.js + AWS | 🌐 Remote | Apr 16 | [Apply](https://starjobs.dev/jobs/7d339b80f7f04d1e9e24fe65846411d8?utm=github) |
+| Deel | Senior Backend Engineer, Node.js + AWS | 🌐 Remote | Apr 16 | [Apply](https://starjobs.dev/jobs/6846cf55a1f944d79fb371deabf9a19a?utm=github) |
+| Deel | Senior Backend Engineer, Node.js + AWS | 🌐 Remote | Apr 16 | [Apply](https://starjobs.dev/jobs/0aa13f006f30466a9e0289f9f0555960?utm=github) |
 
 
 ## About This List
@@ -33,9 +37,9 @@ This list is automatically updated daily with fresh job opportunities.
 
 ## Other Awesome Job Lists
 
-* [Game Development Jobs](https://github.com/bansalnagesh/game-development-jobs)
 * [UX & Design Jobs](https://github.com/bansalnagesh/ux-design-jobs)
-* [Product Management Jobs](https://github.com/bansalnagesh/product-management-jobs)
-* [Awesome DevOps Jobs](https://github.com/bansalnagesh/awesome-devops-jobs)
-* [Awesome AI & Machine Learning Jobs](https://github.com/bansalnagesh/awesome-ai-ml-jobs)
-* [Junior Tech Jobs](https://github.com/bansalnagesh/junior-tech-jobs)
+* [High Paying Tech Jobs](https://github.com/bansalnagesh/high-paying-tech-jobs)
+* [Awesome Remote Tech Jobs](https://github.com/bansalnagesh/awesome-remote-tech-jobs)
+* [Blockchain & Crypto Jobs](https://github.com/bansalnagesh/blockchain-crypto-jobs)
+* [Awesome Full Stack Jobs](https://github.com/bansalnagesh/awesome-fullstack-jobs)
+* [Senior Tech Jobs](https://github.com/bansalnagesh/senior-tech-jobs)
