@@ -6,25 +6,22 @@ A curated list of the best backend developer jobs, updated daily.
 
 ## Latest Jobs
 
-*Updated on 2025-04-19*
+*Updated on 2025-04-21*
 
 | Company | Position | Location | Posted | Apply |
 | ------- | -------- | -------- | ------ | ------ |
-| Romeu | Backend developer | 📍 Spain | Apr 17 | [Apply](https://starjobs.dev/jobs/cd2f00c1b1b946b398b4c2feff5842ef?utm=github) |
-| Randstad Japan | Fully Remote Backend Engineer | 📍 Greater Tokyo Area | Apr 17 | [Apply](https://starjobs.dev/jobs/296bfd170c02448d8a42a5c70280c456?utm=github) |
-| idealista | Backend Developer | 🌐 Remote | Apr 17 | [Apply](https://starjobs.dev/jobs/65c2c1b4d4a443ecb262bab7d2f91833?utm=github) |
-| Deel | Senior Backend Engineer, Node.js + AWS | 🌐 Remote | Apr 16 | [Apply](https://starjobs.dev/jobs/15572375e6224470859e02f3e8b673e9?utm=github) |
-| Deel | Senior Backend Engineer, Node.js + AWS | 🌐 Remote | Apr 16 | [Apply](https://starjobs.dev/jobs/d6d4e201899c4a68aa38e7ee49bbf964?utm=github) |
-| Deel | Senior Backend Engineer, Node.js + AWS | 🌐 Remote | Apr 16 | [Apply](https://starjobs.dev/jobs/a3d88025c37e4d7c95bca81eb3454d0f?utm=github) |
-| Deel | Senior Backend Engineer, Node.js + AWS | 🌐 Remote | Apr 16 | [Apply](https://starjobs.dev/jobs/55d378cbbc0046c2b83997aa130774df?utm=github) |
-| Deel | Senior Backend Engineer, Node.js + AWS | 🌐 Remote | Apr 16 | [Apply](https://starjobs.dev/jobs/d22037bb2e9c48fa95e14959b0e8cdf9?utm=github) |
-| Deel | Senior Backend Engineer, Node.js + AWS | 🌐 Remote | Apr 16 | [Apply](https://starjobs.dev/jobs/14ea0839d343427391a7d4432dcab85c?utm=github) |
-| Deel | Senior Backend Engineer, Node.js + AWS | 🌐 Remote | Apr 16 | [Apply](https://starjobs.dev/jobs/dae4f4622a3a4a9a8b9fc606958a22ad?utm=github) |
-| Deel | Senior Backend Engineer, Node.js + AWS | 🌐 Remote | Apr 16 | [Apply](https://starjobs.dev/jobs/24a799608ac24751b08d2649cf80bb77?utm=github) |
-| Deel | Senior Backend Engineer, Node.js + AWS | 🌐 Remote | Apr 16 | [Apply](https://starjobs.dev/jobs/0846ed1579274dcd927ece85c5979284?utm=github) |
-| Deel | Senior Backend Engineer, Node.js + AWS | 🌐 Remote | Apr 16 | [Apply](https://starjobs.dev/jobs/7d339b80f7f04d1e9e24fe65846411d8?utm=github) |
-| Deel | Senior Backend Engineer, Node.js + AWS | 🌐 Remote | Apr 16 | [Apply](https://starjobs.dev/jobs/6846cf55a1f944d79fb371deabf9a19a?utm=github) |
-| Deel | Senior Backend Engineer, Node.js + AWS | 🌐 Remote | Apr 16 | [Apply](https://starjobs.dev/jobs/0aa13f006f30466a9e0289f9f0555960?utm=github) |
+| Motive | Software Engineer - Backend | 📍 Pakistan | Apr 21 | [Apply](https://starjobs.dev/jobs/6495038d8c7b4bdab78483dacb6584dc?utm=github) |
+| Visa | SW Engineer (Java Backend, 2023-24 pass out) | 📍 Bengaluru East, Karnataka, India | Apr 21 | [Apply](https://starjobs.dev/jobs/b7350ddde45f4d8495619f3dc30439aa?utm=github) |
+| InnoTech | Backend Developer | 📍 Portugal | Apr 21 | [Apply](https://starjobs.dev/jobs/b4cbc438b071439f9eab8802b3c7e1d0?utm=github) |
+| Wiraa | Back End Developer (APIs) 💰 | 🌐 Remote | Apr 21 | [Apply](https://starjobs.dev/jobs/09dbf1b4f82148bdaf9eae824c4f7197?utm=github) |
+| Local Brand X GmbH | Backend PHP-Developer | 🌐 Remote | Apr 20 | [Apply](https://starjobs.dev/jobs/3b61d1f1da3f44569b6352a4ee4678aa?utm=github) |
+| Siemens Energy | Backend Developer Python | 🌐 Remote | Apr 19 | [Apply](https://starjobs.dev/jobs/67fbe0ff20fa4a34ad0284db8d069e10?utm=github) |
+| Aura | Back End Software Engineer | 🌐 Remote | Apr 18 | [Apply](https://starjobs.dev/jobs/68bbb41978854d598942ce6533280c3a?utm=github) |
+| Idea Usher | Back-end Developer (Node.js) | 📍 India | Apr 18 | [Apply](https://starjobs.dev/jobs/3340ba56f8b749239fb7f0464aadae5f?utm=github) |
+| Trilogy | Back End Developer, Trilogy (Remote) - $60,000/year USD | 📍 Mumbai Metropolitan Region | Apr 18 | [Apply](https://starjobs.dev/jobs/cb7e792281614a1d88164aa73ea24555?utm=github) |
+| Renmoney | Backend Developer | 🌐 Remote | Apr 17 | [Apply](https://starjobs.dev/jobs/c8606285b42b41349623e70b81278e4f?utm=github) |
+| Tether | Senior Backend Developer (Node.js) | 🌐 Remote | Apr 17 | [Apply](https://starjobs.dev/jobs/1d89d8779d134d3486a6a921537e76b5?utm=github) |
+| Huble | Back-End Developer (South Africa) | 📍 Cape Town, Western Cape, South Africa | Apr 17 | [Apply](https://starjobs.dev/jobs/a336245a108e4a9b83f52c8b5cf98353?utm=github) |
 
 
 ## About This List
@@ -37,9 +34,9 @@ This list is automatically updated daily with fresh job opportunities.
 
 ## Other Awesome Job Lists
 
-* [UX & Design Jobs](https://github.com/bansalnagesh/ux-design-jobs)
+* [Awesome Frontend Jobs](https://github.com/bansalnagesh/awesome-frontend-jobs)
 * [High Paying Tech Jobs](https://github.com/bansalnagesh/high-paying-tech-jobs)
-* [Awesome Remote Tech Jobs](https://github.com/bansalnagesh/awesome-remote-tech-jobs)
-* [Blockchain & Crypto Jobs](https://github.com/bansalnagesh/blockchain-crypto-jobs)
-* [Awesome Full Stack Jobs](https://github.com/bansalnagesh/awesome-fullstack-jobs)
 * [Senior Tech Jobs](https://github.com/bansalnagesh/senior-tech-jobs)
+* [Tech Jobs in India](https://github.com/bansalnagesh/tech-jobs-india)
+* [Awesome DevOps Jobs](https://github.com/bansalnagesh/awesome-devops-jobs)
+* [Tech Jobs in the USA](https://github.com/bansalnagesh/tech-jobs-usa)
